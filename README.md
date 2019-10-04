@@ -1,4 +1,4 @@
-# Godwill-Ecommerce-
+# Chronique Project -Ecommerce- 
 _________________________________________
 Project Description:
 The aim of this project will be to devolop a Ecommerce website and a possible blog section for the client. The shop will be selling street wear. 
@@ -10,3 +10,6 @@ Madeliene Edwards
 Gary Lam 
 
 Godwill 
+
+Ava Ji-Young Kim
+ 
